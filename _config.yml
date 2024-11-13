@@ -1,1 +1,5 @@
+title: "My Python Projects"
+description: "A showcase of my Python projects"
 theme: jekyll-theme-time-machine
+url: "https://SpaceCodon.github.io"
+baseurl: "/"
